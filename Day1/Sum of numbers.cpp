@@ -10,4 +10,6 @@ int main()
         sum+=a;
     }
     cout<<sum;
+    
+    return 0;
 }

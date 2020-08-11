@@ -13,16 +13,19 @@ int main(){
 	cout<<c<<endl;
 	cout<<ptr<<endl;
 	cout<<ptr2<<endl;
+	cout<<endl;
 
-	// cout<<sizeof(x)<<endl;
-	// cout<<sizeof(c) <<endl;
-	// cout<<sizeof(ptr)<<endl;
-	// cout<<sizeof(ptr2)<<endl;
+    cout<<sizeof(x)<<endl;
+    cout<<sizeof(c) <<endl;
+    cout<<sizeof(ptr)<<endl;
+    cout<<sizeof(ptr2)<<endl;
+    cout<<endl;
 
-	// cout<< ptr <<endl;
-	// cout<< (void *)ptr2 <<endl;
-	// Explict Typecasting to void* so that cout treats char address as address
-	// cout<<sizeof(void *)<<endl;
+    cout<< ptr <<endl;
+    cout<< (void *)ptr2 <<endl;
+    //Explict Typecasting to void* so that cout treats char address as address
+    cout<<sizeof(void *)<<endl;
+    cout<<endl;
 
 
 	void* p = &x;

@@ -4,7 +4,7 @@ SYLLABUS:
 Introduction, STL in C++, Searching and Sorting, Arrays and Strings, Recursion and Backtracking, Linkedlist, Stacks and Queues, Binary Trees,
 BST, Heaps, Tries, Hashing, DP, Graph
 
-Platforms:
+Practice Platforms:
 Leetcode, Codeforces, Codechef, Hackerrank - Code Pair, Hackerearth, Atcoder
 
 Day 1 : 11-08-2020

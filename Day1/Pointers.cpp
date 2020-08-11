@@ -27,7 +27,6 @@ int main(){
     cout<<sizeof(void *)<<endl;
     cout<<endl;
 
-
 	void* p = &x;
 	cout<< p <<endl;
 

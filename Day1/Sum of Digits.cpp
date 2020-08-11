@@ -10,4 +10,6 @@ int main()
         n/=10;
     }
     cout<<sum;
+    
+    return 0;
 }

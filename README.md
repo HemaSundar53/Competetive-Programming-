@@ -1,5 +1,28 @@
-# Competetive-Programming-
-Cipher Schools
+# Competetive-Programming-Cipher Schools
+
+SYLLABUS:
+Introduction
+STL in C++
+Searching and Sorting
+Arrays and Strings
+Recursion, Backtracking
+Linkedlist
+Stacks and Queues
+Binary Trees
+BST
+Heaps
+Tries
+Hashing
+DP
+Graph
+
+Platforms:
+Leetcode
+Codeforces
+Codechef
+Hackerrank - Code Pair
+Hackerearth
+Atcoder
 
 Day 1 : 11-08-2020
 Day 2 : 12-08-2020

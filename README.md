@@ -1,7 +1,7 @@
 # Competetive-Programming-Cipher Schools
 
 SYLLABUS:
-Introduction, STL in C++, Searching and Sorting, Arrays and Strings, Recursion and Backtracking, Linkedlist, Stacks and Queues, Binary Trees
+Introduction, STL in C++, Searching and Sorting, Arrays and Strings, Recursion and Backtracking, Linkedlist, Stacks and Queues, Binary Trees,
 BST, Heaps, Tries, Hashing, DP, Graph
 
 Platforms:

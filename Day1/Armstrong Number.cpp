@@ -20,5 +20,6 @@ int main()
         cout<<"Armstrong";
     else
         cout<<"Not Armstrong";
-
+    
+    return 0;
 }

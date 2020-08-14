@@ -8,7 +8,7 @@ Practice Platforms:
 Leetcode, Codeforces, Codechef, Hackerrank - Code Pair, Hackerearth, Atcoder
 
 Day 1 : 11-08-2020, Loops(10:00-12:00), Pointers(16:00-19:00)
-Day 2 : 12-08-2020
-Day 3 : 13-08-2020
+Day 2 : 12-08-2020, Arrays(10:00-12:00), Classes&Objects(16:00-19:00)
+Day 3 : 13-08-2020, 
 Day 4 : 14-08-2020
 Day 5 : 15-08-2020

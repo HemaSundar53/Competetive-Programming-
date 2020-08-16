@@ -12,3 +12,4 @@ while beg<=end:
         end=mid-1
     else:
         beg=mid+1
+w

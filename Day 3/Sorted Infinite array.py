@@ -7,8 +7,7 @@ def binary_search(l,key,beg,end):
         elif key<l[mid]:
             end=mid-1
         else:
-            beg=mid+1
-            
+            beg=mid+1            
     return -1
 
 
